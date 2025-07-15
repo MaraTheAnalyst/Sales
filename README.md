@@ -16,7 +16,7 @@ By analyzing this data, we aim to provide actionable insights that can support m
 Sales Data: The primary dataset used for this analysis is the “Sales.xlsx” file, containing detailed information about every product bought and essential details on the customers like their age, gender, country and city. 
 
 ### Tool Used
-Microsoft Excel - Descriptive Analysis
+Microsoft Excel 
 
 ### Data Cleaning
 To prepare the dataset for accurate analysis, the following cleaning steps were carried out:
