@@ -4,6 +4,11 @@
 
 This data analysis project explores product sales and revenue trends across Canada, Australia, United Kingdom, France, United States, and Germany between 2011 and 2016. The goal is to uncover marketing patterns over the six-year period and gain deeper insights into the company’s target audience.
 
+<img width="1915" height="861" alt="Sales Visualization 1" src="https://github.com/user-attachments/assets/05c6285d-b926-463b-be35-4b0500d69192" />
+
+<img width="1914" height="846" alt="Sales Visualization 2" src="https://github.com/user-attachments/assets/c88bd929-832c-41ff-a83c-66e6cb54fcbf" />
+
+
 Objectives:
 - Identify the target audience based on purchase behavior
 - Determine the best-selling product category
